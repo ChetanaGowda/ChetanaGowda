@@ -1,16 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I'm Chetana Gowda
 
-<!--
-**ChetanaGowda/ChetanaGowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning Technical subjects
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+  
+
